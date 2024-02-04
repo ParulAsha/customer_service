@@ -1,0 +1,6 @@
+customerId,name,email,phone,address,companyName,industryType,customerStatus,accountManager,createdAt,updatedAt
+1,John Doe,johndoe@example.com,123-456-7890,123 Main St, City, Country,ABC Inc.,Technology,Active,Alice Smith,2022-02-15T08:00:00,2022-02-15T08:00:00
+2,Jane Smith,janesmith@example.com,234-567-8901,456 Elm St, Town, Country,XYZ Corp.,Finance,Active,Bob Johnson,2022-02-16T08:00:00,2022-02-16T08:00:00
+3,Bob Johnson,bobjohnson@example.com,345-678-9012,789 Oak St, Village, Country,DEF Corp.,Healthcare,Inactive,Carol Williams,2022-02-17T08:00:00,2022-02-17T08:00:00
+4,Alice Williams,alicewilliams@example.com,456-789-0123,987 Pine St, City, Country,GHI Inc.,Education,Active,Dave Brown,2022-02-18T08:00:00,2022-02-18T08:00:00
+5,Sarah Lee,sarahlee@example.com,567-890-1234,654 Cedar St, Town, Country,JKL Corp.,Retail,Active,Emma Davis,2022-02-19T08:00:00,2022-02-19T08:00:00
